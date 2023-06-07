@@ -5,7 +5,7 @@ Forecasting with Microscopic Time Series Data".
 
 Original paper: https://arxiv.org/pdf/2110.14354.pdf
 
-This report analyses and describes the attempt to reproduce the paper, _MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data_. Under the assumption that macroscopic time series follow a mixture distribution, they hypothesise that lower variance of constituting latent mixture components could improve the estimation of macroscopic time series. We learned the challenges of reimplementing the proposed model, and as a result, we developed our own implementation based on this conjecture to prove its validity.
+This report analyses and describes the attempt to reproduce the paper, _MixSeq: Connecting Macroscopic Time Series Forecasting with Microscopic Time Series Data_. Under the assumption that macroscopic time series follow a mixture distribution, the authors hypothesise that lower variance of constituting latent mixture components could improve the estimation of macroscopic time series. We learned the challenges of reimplementing the proposed model, and as a result, we developed our own implementation based on this conjecture to prove its validity.
 
 ## Scope of Re-implementation
 
